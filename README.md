@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 
 
 ## HOW TO RUN PROJECT 
-1. git clone  
+1. git clone https://github.com/Shivam2001-programmer/wix-assignment.git
 2. npm install
 3. npm run dev   
